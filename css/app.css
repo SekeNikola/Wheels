@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:600,800);
+h3 {
+  font-weight: 800; }
+
+body {
+  font-family: "Raleway";
+  font-weight: 600; }
+
+.navbar-brand {
+  font-weight: 800; }
+
+.statstic {
+  background: url(../img/statistic.png) center center no-repeat;
+  height: 400px; }
+  .statstic .stat-text {
+    padding-top: 80px; }
+  .statstic .stat-numbers h2 {
+    font-size: 50px; }
+
+.team h5 {
+  margin-top: 10px;
+  font-weight: 800; }
+.team img:hover {
+  transform: scale(1.2);
+  overflow: hidden;
+  transition: all 1s ease; }
+
+.social-img img {
+  margin: 0 0 20px 0; }
+
+footer {
+  background: #1e1e1e;
+  height: 400px; }
+  footer li {
+    list-style-type: none; }
+  footer ul {
+    padding-left: 0; }
+  footer .fa {
+    color: white;
+    margin-right: 6px; }
+
+.social-img {
+  text-align: center; }
+
+.jumbotron {
+  background: url(../img/bg-image.png) center center no-repeat;
+  height: 1000px; }
+  .jumbotron .maintext {
+    margin-top: 500px; }
+
+.products {
+  padding-top: 50px; }
+  .products a {
+    color: darkgrey; }
+  .products .card {
+    border: 0; }
+
+/*# sourceMappingURL=app.css.map */
